@@ -1,0 +1,18 @@
+body{background:#75c35D;}
+
+.loginbox{background:white;width:400px;padding:50px;margin:auto;margin-top:220px;}
+
+.loginbox input{width:89%;display:block;padding:20px;
+                background:#f2f2f2; margin-bottom:20px;
+				outline:none;border:none;font-size:18px }
+				
+.loginBtn{background:#00B242!important;color:white;
+          width:100%!important;}				
+		  
+.RegisterLink a{text-decoration:none;color:#35BCE}	
+
+.RegisterLink span{color:#beb6b6;}
+.RegisterLink {text-align:center;font-size:18px;}	  
+.loginbox h2{text-align:center;margin:0px;margin-bottom:20px;
+             font-family:arial black;text-shadow:1px 1px 1px black;
+			 font-size:30px}
